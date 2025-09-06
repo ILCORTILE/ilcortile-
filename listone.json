@@ -1,0 +1,6 @@
+[
+  {"nome":"Leao","squadra":"Milan","ruolo":"ATT","overall":86,"immagine":"assets/players/leao.png"},
+  {"nome":"Orsolini","squadra":"Bologna","ruolo":"ATT","overall":82,"immagine":"assets/players/orsolini.png"},
+  {"nome":"Gudmundsson","squadra":"Genoa","ruolo":"ATT","overall":84,"immagine":"assets/players/gudmundsson.png"},
+  {"nome":"Castellanos","squadra":"Lazio","ruolo":"ATT","overall":80,"immagine":"assets/players/castellanos.png"}
+]

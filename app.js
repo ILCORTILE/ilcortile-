@@ -1,0 +1,1 @@
+console.log('App Il Cortile Blocco 1 caricata');
